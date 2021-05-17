@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bony Sound</string>
+    <string name="bt_play_play">再生</string>
+    <string name="bt_play_pause">一時停止</string>
+    <string name="bt_back">&lt;&lt;</string>
+    <string name="bt_forward">&gt;&gt;</string>
+    <string name="tv_loop">リピート</string>
+
+    <string-array name="lv_sound">
+        <item>点決められたとき（かんべんしてくれよ）</item>
+        <item>点決められたとき（うなり声）</item>
+        <item>ミスした時（くず！）</item>
+        <item>ミスした時（くーん）</item>
+        <item>負けたとき（くーん）</item>
+    </string-array>
+</resources>
