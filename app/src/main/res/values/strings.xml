@@ -1,10 +1,13 @@
 <resources>
     <string name="app_name">Bony Sound</string>
     <string name="bt_play_play">再生</string>
+    <string name="bt_play_play2">録音再生</string>
     <string name="bt_play_pause">一時停止</string>
     <string name="bt_back">&lt;&lt;</string>
     <string name="bt_forward">&gt;&gt;</string>
     <string name="tv_loop">リピート</string>
+    <string name="bt_record">録音</string>
+    <string name="bt_stop">録音停止</string>
 
     <string-array name="lv_sound">
         <item>点決められたとき（かんべんしてくれよ）</item>
